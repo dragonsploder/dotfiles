@@ -1,0 +1,31 @@
+[16:05:39.717][info] [#0:/home/dragonsploder/.config/coc/extensions/coc-sumneko-lua-data/sumneko-lua-ls/extension/server/main.lua:66]: Lua Lsp startup, root: 	/home/dragonsploder/.config/coc/extensions/coc-sumneko-lua-data/sumneko-lua-ls/extension/server
+[16:05:39.717][info] [#0:/home/dragonsploder/.config/coc/extensions/coc-sumneko-lua-data/sumneko-lua-ls/extension/server/main.lua:67]: ROOT:	/home/dragonsploder/.config/coc/extensions/coc-sumneko-lua-data/sumneko-lua-ls/extension/server
+[16:05:39.717][info] [#0:/home/dragonsploder/.config/coc/extensions/coc-sumneko-lua-data/sumneko-lua-ls/extension/server/main.lua:68]: LOGPATH:	/home/dragonsploder/.config/coc/extensions/coc-sumneko-lua-data/sumneko-lua-ls/extension/server/log
+[16:05:39.717][info] [#0:/home/dragonsploder/.config/coc/extensions/coc-sumneko-lua-data/sumneko-lua-ls/extension/server/main.lua:69]: METAPATH:	/home/dragonsploder/.config/coc/extensions/coc-sumneko-lua-data/sumneko-lua-ls/extension/server/meta
+[16:05:39.717][info] [#0:/home/dragonsploder/.config/coc/extensions/coc-sumneko-lua-data/sumneko-lua-ls/extension/server/main.lua:70]: VERSION:	3.6.4-dev
+[16:05:39.736][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 2.009 MB
+        # 00 : 2.009 MB
+        # 01 : 0.000 MB
+        # 02 : 0.000 MB
+        # 03 : 0.000 MB
+        # 04 : 0.000 MB
+    --------------- Coroutine ---------------
+        Total:     0
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      0
+    --------------- Cache ---------------
+        Total: 1
+        Dead:  0
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[16:05:39.740][info] [#0:script/language.lua:137]: VSC language: en-us
+[16:05:39.740][info] [#0:script/language.lua:138]: LS  language: en-us
+[16:05:39.740][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///home/dragonsploder/.local/src/NES-Emulator.rs
+[16:05:39.740][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/home/dragonsploder/.config/coc/extensions/coc-sumneko-lua-data/sumneko-lua-ls/extension/server/log/file_home_dragonsploder_.local_src_NES-Emulator.rs.log

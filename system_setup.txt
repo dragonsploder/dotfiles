@@ -1,0 +1,19 @@
+openrc
+ronan's file tree
+ly
+xorg
+dwm-flex
+dmenu
+dwm_bar
+pc speaker disable
+alsa and pulse audio
+fonts
+librewolf - bitwarden extention
+kitty
+networkmanage - openrc
+lf
+slock
+disable mouse on startup (dwm config stuff)
+nvim
+steam
+Reaper?

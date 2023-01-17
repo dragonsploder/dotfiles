@@ -1,0 +1,14 @@
+C10018 "/home/dragonsploder/audio/samples/The Lunch77 MF DOOM Drumkit/The Lunch77 MF DOOM Drumkit/Percs"
+F "1 perc -bongo.wav" 57338 0 1671153019 0
+D s 44100 n 1 l 0:00.649 i 16
+F "2 perc -bongoing.wav" 282320 0 1671153019 0
+D s 44100 n 2 l 0:01.600 i 16
+F "3 perc -tambourine.wav" 216332 0 1671153019 0
+D s 44100 n 2 l 0:01.226 i 16
+F "4 perc -protein.wav" 64430 0 1671153019 0
+D s 44100 n 1 l 0:00.730 i 16
+F "5 perc -chair.wav" 61860 0 1671153019 0
+D s 44100 n 1 l 0:00.700 i 16
+F "Perc - TurnTable.wav" 179414 0 1671153019 0
+D c "Recorded on 11/18/2016 in Edison." s 44100 n 2 l 0:00.507
+D i 32

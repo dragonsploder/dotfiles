@@ -1,0 +1,41 @@
+C10018 "/home/dragonsploder/audio/samples/Abletunes - Risers, Falls and Effects/Abletunes - Risers, Falls and Effects/02 Noise Falls"
+F "01 Abletunes - 2 Bar Fall.wav" 992492 0 1671152953 0
+D t abletunes.com a abletunes.com c abletunes.com s 44100
+D n 2 l 0:03.750 i 24
+F "02 Abletunes - 4 Bar Fall.wav" 1984742 0 1671152953 0
+D t abletunes.com a abletunes.com c abletunes.com s 44100
+D n 2 l 0:07.500 i 24
+F "03 Abletunes - 4 Bar Fall.wav" 1984720 0 1671152953 0
+D a abletunes.com c abletunes.com s 44100 n 2
+D l 0:07.500 i 24
+F "04 Abletunes - 4 Bar Fall.wav" 1984742 0 1671152953 0
+D t abletunes.com a abletunes.com c abletunes.com s 44100
+D n 2 l 0:07.500 i 24
+F "05 Abletunes - 4 Bar Fall.wav" 1984742 0 1671152953 0
+D t abletunes.com a abletunes.com c abletunes.com s 44100
+D n 2 l 0:07.500 i 24
+F "06 Abletunes - 4 Bar Fall.wav" 1984720 0 1671152954 0
+D t abletunes.com a abletunes.com s 44100 n 2
+D l 0:07.500 i 24
+F "07 Abletunes - 4 Bar Fall.wav" 1984544 0 1671152954 0
+D s 44100 n 2 l 0:07.500 i 24
+F "08 Abletunes - 4 Bar Fall.wav" 1954214 0 1671152954 0
+D t abletunes.com a abletunes.com c abletunes.com s 44100
+D n 2 l 0:07.384 i 24
+F "09 Abletunes - 8 Bar Fall.wav" 3969242 0 1671152954 0
+D t abletunes.com a abletunes.com c abletunes.com s 44100
+D n 2 l 0:15.000 i 24
+F "10 Abletunes - 8 Bar Fall.wav" 3969242 0 1671152954 0
+D t abletunes.com a abletunes.com c abletunes.com s 44100
+D n 2 l 0:15.000 i 24
+F "11 Abletunes - 8 Bar Fall.wav" 3969044 0 1671152954 0
+D s 44100 n 2 l 0:15.000 i 24
+F "12 Abletunes - 8 Bar Fall.wav" 3908164 0 1671152954 0
+D t abletunes.com a abletunes.com s 44100 n 2
+D l 0:14.769 i 24
+F "13 Abletunes - 8 Bar Fall.wav" 3908186 0 1671152954 0
+D t abletunes.com a abletunes.com c abletunes.com s 44100
+D n 2 l 0:14.769 i 24
+F "14 Abletunes - 8 Bar Fall.wav" 3969220 0 1671152954 0
+D t abletunes.com a abletunes.com s 44100 n 2
+D l 0:15.000 i 24

@@ -1,0 +1,24 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+"http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<Menu>
+  <Name>Applications</Name>
+  <Menu>
+    <Name>wine-wine</Name>
+    <Directory>wine-wine.directory</Directory>
+  <Menu>
+    <Name>wine-Programs</Name>
+    <Directory>wine-Programs.directory</Directory>
+  <Menu>
+    <Name>wine-Programs-Tokyo Dawn Labs</Name>
+    <Directory>wine-Programs-Tokyo Dawn Labs.directory</Directory>
+  <Menu>
+    <Name>wine-Programs-Tokyo Dawn Labs-TDR Nova</Name>
+    <Directory>wine-Programs-Tokyo Dawn Labs-TDR Nova.directory</Directory>
+    <Include>
+      <Filename>wine-Programs-Tokyo Dawn Labs-TDR Nova-Un-install TDR Nova.desktop</Filename>
+    </Include>
+  </Menu>
+  </Menu>
+  </Menu>
+  </Menu>
+</Menu>

@@ -1,0 +1,7 @@
+set shell zsh
+set shellopts '-euy'
+set ifs "\n"
+set filesep "\n"  # default already
+# on zsh, -y is very necessary because zsh doesn't separate $fx properly, treating it as one string
+
+map . set hidden!

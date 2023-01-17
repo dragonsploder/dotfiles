@@ -1,0 +1,274 @@
+[16:05:39.717][info] [#0:/home/dragonsploder/.config/coc/extensions/coc-sumneko-lua-data/sumneko-lua-ls/extension/server/main.lua:66]: Lua Lsp startup, root: 	/home/dragonsploder/.config/coc/extensions/coc-sumneko-lua-data/sumneko-lua-ls/extension/server
+[16:05:39.717][info] [#0:/home/dragonsploder/.config/coc/extensions/coc-sumneko-lua-data/sumneko-lua-ls/extension/server/main.lua:67]: ROOT:	/home/dragonsploder/.config/coc/extensions/coc-sumneko-lua-data/sumneko-lua-ls/extension/server
+[16:05:39.717][info] [#0:/home/dragonsploder/.config/coc/extensions/coc-sumneko-lua-data/sumneko-lua-ls/extension/server/main.lua:68]: LOGPATH:	/home/dragonsploder/.config/coc/extensions/coc-sumneko-lua-data/sumneko-lua-ls/extension/server/log
+[16:05:39.717][info] [#0:/home/dragonsploder/.config/coc/extensions/coc-sumneko-lua-data/sumneko-lua-ls/extension/server/main.lua:69]: METAPATH:	/home/dragonsploder/.config/coc/extensions/coc-sumneko-lua-data/sumneko-lua-ls/extension/server/meta
+[16:05:39.717][info] [#0:/home/dragonsploder/.config/coc/extensions/coc-sumneko-lua-data/sumneko-lua-ls/extension/server/main.lua:70]: VERSION:	3.6.4-dev
+[16:05:39.736][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 2.009 MB
+        # 00 : 2.009 MB
+        # 01 : 0.000 MB
+        # 02 : 0.000 MB
+        # 03 : 0.000 MB
+        # 04 : 0.000 MB
+    --------------- Coroutine ---------------
+        Total:     0
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      0
+    --------------- Cache ---------------
+        Total: 1
+        Dead:  0
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[16:05:39.740][info] [#0:script/language.lua:137]: VSC language: en-us
+[16:05:39.740][info] [#0:script/language.lua:138]: LS  language: en-us
+[16:05:39.740][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///home/dragonsploder/.local/src/NES-Emulator.rs
+[16:05:39.740][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/home/dragonsploder/.config/coc/extensions/coc-sumneko-lua-data/sumneko-lua-ls/extension/server/log/file_home_dragonsploder_.local_src_NES-Emulator.rs.log
+[16:05:39.740][info] [#0:script/workspace/workspace.lua:51]: Workspace create: 	file:///home/dragonsploder/.local/src/NES-Emulator.rs
+[16:05:39.942][info] [#0:script/provider/provider.lua:41]: Load config from client	file:///home/dragonsploder/.local/src/NES-Emulator.rs
+[16:05:39.943][info] [#0:script/provider/provider.lua:42]: {
+  Lua = {
+    completion = {
+      autoRequire = true,
+      callSnippet = "Disable",
+      displayContext = 0,
+      enable = true,
+      keywordSnippet = "Replace",
+      postfix = "@",
+      requireSeparator = ".",
+      showParams = true,
+      showWord = "Fallback",
+      workspaceWord = true
+    },
+    diagnostics = {
+      disable = {},
+      disableScheme = { "git" },
+      enable = true,
+      globals = {},
+      groupFileStatus = {},
+      groupSeverity = {},
+      ignoredFiles = "Opened",
+      libraryFiles = "Opened",
+      neededFileStatus = {},
+      severity = {},
+      unusedLocalExclude = {},
+      workspaceDelay = 3000,
+      workspaceRate = 100
+    },
+    format = {
+      defaultConfig = {},
+      enable = true
+    },
+    hint = {
+      arrayIndex = "Auto",
+      await = true,
+      enable = true,
+      paramName = "All",
+      paramType = true,
+      semicolon = "SameLine",
+      setType = false
+    },
+    hover = {
+      enable = true,
+      enumsLimit = 5,
+      expandAlias = true,
+      previewFields = 50,
+      viewNumber = true,
+      viewString = true,
+      viewStringMax = 1000
+    },
+    misc = {
+      parameters = {}
+    },
+    runtime = {
+      builtin = {},
+      fileEncoding = "utf8",
+      meta = "${version} ${language} ${encoding}",
+      nonstandardSymbol = {},
+      path = { "?.lua", "?/init.lua" },
+      pathStrict = false,
+      plugin = "",
+      pluginArgs = {},
+      special = {},
+      unicodeName = false,
+      version = "Lua 5.4"
+    },
+    semantic = {
+      annotation = true,
+      enable = true,
+      keyword = false,
+      variable = true
+    },
+    signatureHelp = {
+      enable = true
+    },
+    spell = {
+      dict = {}
+    },
+    telemetry = {
+      enable = false
+    },
+    type = {
+      castNumberToInteger = true,
+      weakNilCheck = false,
+      weakUnionCheck = false
+    },
+    typeFormat = {
+      config = {}
+    },
+    window = {
+      progressBar = true,
+      statusBar = true
+    },
+    workspace = {
+      checkThirdParty = true,
+      ignoreDir = { ".vscode" },
+      ignoreSubmodules = true,
+      library = {},
+      maxPreload = 5000,
+      preloadFileSize = 500,
+      supportScheme = { "file", "untitled", "git" },
+      useGitIgnore = true,
+      userThirdParty = {}
+    }
+  }
+}
+[16:05:40.044][info] [#0:script/provider/completion.lua:43]: Enable completion.
+[16:05:40.044][info] [#0:script/provider/provider.lua:56]: Load config from client	fallback
+[16:05:40.044][info] [#0:script/provider/provider.lua:57]: {
+  Lua = {
+    completion = {
+      autoRequire = true,
+      callSnippet = "Disable",
+      displayContext = 0,
+      enable = true,
+      keywordSnippet = "Replace",
+      postfix = "@",
+      requireSeparator = ".",
+      showParams = true,
+      showWord = "Fallback",
+      workspaceWord = true
+    },
+    diagnostics = {
+      disable = {},
+      disableScheme = { "git" },
+      enable = true,
+      globals = {},
+      groupFileStatus = {},
+      groupSeverity = {},
+      ignoredFiles = "Opened",
+      libraryFiles = "Opened",
+      neededFileStatus = {},
+      severity = {},
+      unusedLocalExclude = {},
+      workspaceDelay = 3000,
+      workspaceRate = 100
+    },
+    format = {
+      defaultConfig = {},
+      enable = true
+    },
+    hint = {
+      arrayIndex = "Auto",
+      await = true,
+      enable = true,
+      paramName = "All",
+      paramType = true,
+      semicolon = "SameLine",
+      setType = false
+    },
+    hover = {
+      enable = true,
+      enumsLimit = 5,
+      expandAlias = true,
+      previewFields = 50,
+      viewNumber = true,
+      viewString = true,
+      viewStringMax = 1000
+    },
+    misc = {
+      parameters = {}
+    },
+    runtime = {
+      builtin = {},
+      fileEncoding = "utf8",
+      meta = "${version} ${language} ${encoding}",
+      nonstandardSymbol = {},
+      path = { "?.lua", "?/init.lua" },
+      pathStrict = false,
+      plugin = "",
+      pluginArgs = {},
+      special = {},
+      unicodeName = false,
+      version = "Lua 5.4"
+    },
+    semantic = {
+      annotation = true,
+      enable = true,
+      keyword = false,
+      variable = true
+    },
+    signatureHelp = {
+      enable = true
+    },
+    spell = {
+      dict = {}
+    },
+    telemetry = {
+      enable = false
+    },
+    type = {
+      castNumberToInteger = true,
+      weakNilCheck = false,
+      weakUnionCheck = false
+    },
+    typeFormat = {
+      config = {}
+    },
+    window = {
+      progressBar = true,
+      statusBar = true
+    },
+    workspace = {
+      checkThirdParty = true,
+      ignoreDir = { ".vscode" },
+      ignoreSubmodules = true,
+      library = {},
+      maxPreload = 5000,
+      preloadFileSize = 500,
+      supportScheme = { "file", "untitled", "git" },
+      useGitIgnore = true,
+      userThirdParty = {}
+    }
+  }
+}
+[16:05:40.144][info] [#0:script/library.lua:209]: Init builtin library at:	file:///home/dragonsploder/.local/src/NES-Emulator.rs
+[16:05:40.162][info] [#0:script/plugin.lua:86]: plugin path:	/home/dragonsploder/.local/src/NES-Emulator.rs
+[16:05:40.162][warn] [#0:script/plugin.lua:101]: plugin not found:	/home/dragonsploder/.local/src/NES-Emulator.rs
+[16:05:40.162][info] [#0:script/library.lua:209]: Init builtin library at:	nil
+[16:05:40.269][info] [#0:script/workspace/workspace.lua:304]: Preload start:	file:///home/dragonsploder/.local/src/NES-Emulator.rs
+[16:05:40.270][info] [#0:script/workspace/workspace.lua:310]: Scan files at:	file:///home/dragonsploder/.local/src/NES-Emulator.rs
+[16:05:40.272][info] [#0:script/workspace/workspace.lua:304]: Preload start:	<fallback>
+[16:05:40.273][info] [#0:script/workspace/workspace.lua:327]: Scan library at:	file:///home/dragonsploder/.config/coc/extensions/coc-sumneko-lua-data/sumneko-lua-ls/extension/server/meta/Lua%205.4%20en-us%20utf8
+[16:05:40.281][info] [#0:script/workspace/workspace.lua:327]: Scan library at:	file:///home/dragonsploder/.config/coc/extensions/coc-sumneko-lua-data/sumneko-lua-ls/extension/server/meta/Lua%205.4%20en-us%20utf8
+[16:05:40.382][info] [#0:script/workspace/workspace.lua:347]: Found 11 files at:	<fallback>
+[16:05:40.382][info] [#0:script/workspace/loading.lua:157]: Load files from disk:	<fallback>
+[16:05:40.382][info] [#0:script/workspace/workspace.lua:347]: Found 11 files at:	file:///home/dragonsploder/.local/src/NES-Emulator.rs
+[16:05:40.382][info] [#0:script/workspace/loading.lua:157]: Load files from disk:	file:///home/dragonsploder/.local/src/NES-Emulator.rs
+[16:05:40.621][info] [#0:script/workspace/loading.lua:169]: Loaded files takes [0.040] sec: <fallback>
+[16:05:40.621][info] [#0:script/workspace/loading.lua:178]: Compile files takes [0.000] sec: <fallback>
+[16:05:40.621][info] [#0:script/workspace/loading.lua:179]: Loaded finish:	<fallback>
+[16:05:40.621][info] [#0:script/workspace/workspace.lua:349]: Preload finish at:	<fallback>
+[16:05:40.628][info] [#0:script/workspace/loading.lua:169]: Loaded files takes [0.048] sec: file:///home/dragonsploder/.local/src/NES-Emulator.rs
+[16:05:40.628][info] [#0:script/workspace/loading.lua:178]: Compile files takes [0.000] sec: file:///home/dragonsploder/.local/src/NES-Emulator.rs
+[16:05:40.628][info] [#0:script/workspace/loading.lua:179]: Loaded finish:	file:///home/dragonsploder/.local/src/NES-Emulator.rs
+[16:05:40.628][info] [#0:script/workspace/workspace.lua:349]: Preload finish at:	file:///home/dragonsploder/.local/src/NES-Emulator.rs
+[16:05:40.634][warn] [#0:script/proto/proto.lua:122]: Response of [workspace/diagnostic/refresh] error [-32601]: Unhandled method workspace/diagnostic/refresh
+[16:05:40.634][info] [#0:script/provider/diagnostic.lua:552]: Diagnostics scope [file:///home/dragonsploder/.local/src/NES-Emulator.rs], files count:[11]
+[16:05:40.635][info] [#0:script/provider/diagnostic.lua:569]: Diagnostics scope [file:///home/dragonsploder/.local/src/NES-Emulator.rs] finished, takes [0.000] sec.
+[16:05:40.635][warn] [#0:script/proto/proto.lua:122]: Response of [workspace/diagnostic/refresh] error [-32601]: Unhandled method workspace/diagnostic/refresh

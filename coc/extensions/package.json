@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "coc-clangd": ">=0.27.0",
+    "coc-jedi": ">=0.35.0",
+    "coc-sumneko-lua": ">=0.0.35",
+    "coc-rust-analyzer": ">=0.71.0"
+  },
+  "lastUpdate": 1672027243374
+}

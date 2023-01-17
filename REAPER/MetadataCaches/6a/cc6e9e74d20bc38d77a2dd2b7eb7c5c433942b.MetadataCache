@@ -1,0 +1,46 @@
+C10018 "/home/dragonsploder/audio/samples/Abletunes - Risers, Falls and Effects/Abletunes - Risers, Falls and Effects/04 Long and Processed Noise"
+F "01 Abletunes - 8 Bar Riser LFO.wav" 3969220 0 1671152955 0
+D a abletunes.com c abletunes.com s 44100 n 2
+D l 0:15.000 i 24
+F "02 Abletunes - 16 Bar Riser.wav" 9922818 0 1671152955 0
+D t abletunes.com a abletunes.com c abletunes.com s 44100
+D n 2 l 0:37.500 i 24
+F "03 Abletunes - 16 Bar Riser.wav" 9922818 0 1671152955 0
+D t abletunes.com a abletunes.com c abletunes.com s 44100
+D n 2 l 0:37.500 i 24
+F "04 Abletunes - 16 Bar Up & Down.wav" 7938242 0 1671152955 0
+D t abletunes.com a abletunes.com c abletunes.com s 44100
+D n 2 l 0:30.000 i 24
+F "05 Abletunes - 16 Bar Up & Down.wav" 7938242 0 1671152955 0
+D t abletunes.com a abletunes.com c abletunes.com s 44100
+D n 2 l 0:30.000 i 24
+F "06 Abletunes - 16 Bar Up & Down.wav" 7938242 0 1671152955 0
+D t abletunes.com a abletunes.com c abletunes.com s 44100
+D n 2 l 0:30.000 i 24
+F "07 Abletunes - 16 Bar Up & Down.wav" 7938242 0 1671152955 0
+D t abletunes.com a abletunes.com c abletunes.com s 44100
+D n 2 l 0:30.000 i 24
+F "08 Abletunes - 32 Bar Up & Down.wav" 15876242 0 1671152955 0
+D t abletunes.com a abletunes.com c abletunes.com s 44100
+D n 2 l 1:00.000 i 24
+F "09 Abletunes - 32 Bar Up & Down.wav" 15876242 0 1671152955 0
+D t abletunes.com a abletunes.com c abletunes.com s 44100
+D n 2 l 1:00.000 i 24
+F "10 Abletunes - 16 Bar Riser.wav" 9922742 0 1671152955 0
+D t abletunes.com a abletunes.com c abletunes.com s 44100
+D n 2 l 0:37.500 i 24
+F "11 Abletunes - 16 Bar Riser.wav" 9922742 0 1671152955 0
+D t abletunes.com a abletunes.com c abletunes.com s 44100
+D n 2 l 0:37.500 i 24
+F "12 Abletunes - 16 Bar Up & Down.wav" 7938242 0 1671152955 0
+D t abletunes.com a abletunes.com c abletunes.com s 44100
+D n 2 l 0:30.000 i 24
+F "13 Abletunes - 16 Bar Up & Down.wav" 7938242 0 1671152955 0
+D t abletunes.com a abletunes.com c abletunes.com s 44100
+D n 2 l 0:30.000 i 24
+F "14 Abletunes - 32 Bar Up & Down.wav" 15876242 0 1671152955 0
+D t abletunes.com a abletunes.com c abletunes.com s 44100
+D n 2 l 1:00.000 i 24
+F "16 Abletunes - 16 Bar Up & Down.wav" 7938242 0 1671152955 0
+D t abletunes.com a abletunes.com c abletunes.com s 44100
+D n 2 l 0:30.000 i 24

@@ -1,0 +1,13 @@
+plugin_dirs = [
+    '/home/dragonsploder/.wine/drive_c/Program Files/Common Files/VST2',
+    '/home/dragonsploder/.wine/drive_c/Program Files/Common Files/VST3',
+    '/home/dragonsploder/.wine/drive_c/Program Files (x86)/Common Files/VST2',
+    '/home/dragonsploder/.wine/drive_c/Program Files (x86)/Common Files/VST3',
+]
+vst2_location = 'centralized'
+no_verify = false
+blacklist = []
+
+[last_known_config]
+wine_version = 'wine-7.22'
+yabridge_host_hash = -5501138000770281033
