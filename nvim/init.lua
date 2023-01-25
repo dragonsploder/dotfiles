@@ -107,6 +107,11 @@ vimp.nnoremap('<leader>lw', function() -- Line wrap
 end)
 vim.o.clipboard = "unnamedplus" -- Set clipboard to system
 
+-- Line Wrap indentation
+vim.o.breakindent = true -- See above
+vim.o.formatoptions = 1 -- Do not split words
+vim.o.lbr = true -- Part of above
+
 -- Turn off backups and turn on swap
 vim.o.backup = false
 vim.o.swapfile = true

@@ -1,4 +1,4 @@
-setxkbmap dvorak
+setxkbmap dvorak,us -option grp:shifts_toggle
 light -S 50
 xinput disable 12
 xinput disable 13 
